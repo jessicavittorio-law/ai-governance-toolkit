@@ -1,0 +1,21 @@
+AI GOVERNANCE SCREENING RESULT
+============================================================
+Use case: StoreShift Scheduler (fictional)
+Description: Fictional retail tool that assigns shifts to store employees using each person's past attendance and performance data.
+
+Preliminary tier: POTENTIALLY HIGH-RISK
+
+What drove this result:
+  - [h_employment] Employment and worker management (Annex III(4))
+  - [profiling_of_persons] Profiles natural persons (Art. 6(3))
+
+Notes:
+  - Profiling of natural persons in an Annex III area is always treated as high-risk.
+
+Suggested next steps:
+  - Escalate to the AI governance committee before launch.
+  - Plan for risk management, data governance, technical documentation, logging, human oversight, accuracy and robustness testing, and conformity assessment.
+  - Check applicable dates: Annex III obligations apply from 2 December 2027; Annex I from 2 August 2028 (verify current text).
+  - Run a DPIA and check GDPR and employment-law requirements.
+
+Preliminary screening aid only. Not legal advice. A qualified person must make the final classification.

@@ -1,0 +1,37 @@
+{
+  "use_case": {
+    "name": "StoreShift Scheduler (fictional)",
+    "description": "Fictional retail tool that assigns shifts to store employees using each person's past attendance and performance data.",
+    "owner": "VP Store Operations (fictional)"
+  },
+  "answers": {
+    "p_manipulation": false,
+    "p_vulnerability": false,
+    "p_social_scoring": false,
+    "p_crime_prediction": false,
+    "p_face_scraping": false,
+    "p_emotion_work_edu": false,
+    "p_biometric_sensitive": false,
+    "p_realtime_rbi": false,
+    "p_intimate_imagery": false,
+    "p_csam": false,
+    "h_annex1_safety": false,
+    "h_biometrics": false,
+    "h_critical_infrastructure": false,
+    "h_education": false,
+    "h_employment": true,
+    "h_essential_services": false,
+    "h_law_enforcement": false,
+    "h_migration": false,
+    "h_justice_democracy": false,
+    "profiling_of_persons": true,
+    "narrow_task_exemption": false,
+    "t_interacts_with_people": false,
+    "t_synthetic_content": false,
+    "t_emotion_or_biometric_cat": false,
+    "t_deepfake": false,
+    "t_public_interest_text": false,
+    "gpai_provider": false,
+    "gpai_systemic_risk": false
+  }
+}

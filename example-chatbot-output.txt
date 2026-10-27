@@ -1,0 +1,17 @@
+AI GOVERNANCE SCREENING RESULT
+============================================================
+Use case: ShopHelper Chat Assistant (fictional)
+Description: Fictional customer-facing chatbot that answers product and order questions on a retailer's website.
+
+Preliminary tier: TRANSPARENCY OBLIGATIONS
+
+What drove this result:
+  - [t_interacts_with_people] Interacts directly with people (Art. 50(1))
+  - [t_synthetic_content] Generates synthetic audio, image, video or text (Art. 50(2))
+
+Suggested next steps:
+  - Tell users when they are interacting with AI, unless it is obvious.
+  - Providers: mark synthetic output in a machine-readable way (grace period to 2 December 2026 for systems already on the market before 2 August 2026).
+  - Deployers: disclose deepfakes and label public-interest AI text unless it has human editorial review.
+
+Preliminary screening aid only. Not legal advice. A qualified person must make the final classification.
